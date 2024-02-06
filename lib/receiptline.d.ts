@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-declare module 'receiptline' {
+export declare module './receiptline.js' {
     import { Transform } from 'node:stream';
     /**
      * Encoding
