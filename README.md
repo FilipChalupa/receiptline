@@ -1,3 +1,5 @@
+Fork of [ReceiptLine](https://www.npmjs.com/package/receiptline) for use in the browser only.
+
 # ReceiptLine
 
 Markdown for receipts. Printable digital receipts. &#x1f9fe;  
